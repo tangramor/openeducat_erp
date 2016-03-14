@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 8.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-03-10 17:22+0800\n"
-"PO-Revision-Date: 2016-03-10 17:35+0800\n"
+"PO-Revision-Date: 2016-03-14 22:56+0800\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -105,17 +105,17 @@ msgstr ""
 #. module: openeducat_erp
 #: selection:op.period,am_pm:0
 msgid "AM"
-msgstr ""
+msgstr "上午"
 
 #. module: openeducat_erp
 #: field:op.period,am_pm:0
 msgid "AM/PM"
-msgstr ""
+msgstr "上午/下午"
 
 #. module: openeducat_erp
 #: selection:op.exam.attendees,status:0
 msgid "Absent"
-msgstr ""
+msgstr "缺席"
 
 #. module: openeducat_erp
 #: view:op.book:openeducat_erp.view_op_book_form
@@ -123,20 +123,20 @@ msgstr ""
 #: view:op.book.queue:openeducat_erp.view_op_book_queue_form
 #: selection:op.book.queue,state:0
 msgid "Accept"
-msgstr ""
+msgstr "接受"
 
 #. module: openeducat_erp
 #: selection:op.assignment.sub.history,state:0
 #: selection:op.assignment.sub.line,state:0
 #: view:op.book.purchase:openeducat_erp.view_op_purchase_form
 msgid "Accepted"
-msgstr ""
+msgstr "已接受"
 
 #. module: openeducat_erp
 #: view:res.company:openeducat_erp.view_company_form_openeducat_erp
 #: field:res.company,accredetion:0
 msgid "Accredetion"
-msgstr ""
+msgstr "委任"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_achievement_view
@@ -146,7 +146,7 @@ msgstr ""
 #: view:op.achievement:openeducat_erp.view_op_achievement_tree
 #: view:op.attendance.line:openeducat_erp.view_op_attendance_line_form
 msgid "Achievement"
-msgstr ""
+msgstr "成就"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_achievement_type_view
@@ -157,12 +157,12 @@ msgstr ""
 #: view:op.achievement.type:openeducat_erp.view_op_achievement_type_search
 #: view:op.achievement.type:openeducat_erp.view_op_achievement_type_tree
 msgid "Achievement Type"
-msgstr ""
+msgstr "成就类型"
 
 #. module: openeducat_erp
 #: field:op.vehicle,active:0
 msgid "Active"
-msgstr ""
+msgstr "有效"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_activity_view
@@ -173,12 +173,12 @@ msgstr ""
 #: view:op.student:openeducat_erp.view_op_student_form
 #: field:op.student,activity_log:0
 msgid "Activity Log"
-msgstr ""
+msgstr "活动日志"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_school_config_activity
 msgid "Activity Management"
-msgstr ""
+msgstr "活动管理"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_activity_type_view
@@ -189,7 +189,7 @@ msgstr ""
 #: view:op.activity.type:openeducat_erp.view_op_activity_type_tree
 #: field:op.activity.type,name:0
 msgid "Activity Type"
-msgstr ""
+msgstr "活动类型"
 
 #. module: openeducat_erp
 #: view:op.book.movement:openeducat_erp.view_op_book_movement_search
@@ -197,56 +197,56 @@ msgstr ""
 #: field:return.book,actual_return_date:0
 #: field:return.date,actual_return_date:0
 msgid "Actual Return Date"
-msgstr ""
+msgstr "实际归还日期"
 
 #. module: openeducat_erp
 #: view:book.request.queue:openeducat_erp.book_request_queue_form
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #. module: openeducat_erp
 #: view:op.all.student:openeducat_erp.op_all_student_form
 msgid "Add Absent Student Student(s)"
-msgstr ""
+msgstr "添加缺席学员"
 
 #. module: openeducat_erp
 #: view:op.all.student:openeducat_erp.op_all_student_form
 msgid "Add Absent Student(s)"
-msgstr ""
+msgstr "添加缺席学员"
 
 #. module: openeducat_erp
 #: view:book.request.queue:openeducat_erp.book_request_queue_form
 msgid "Add Book Queue Request"
-msgstr ""
+msgstr "添加图书排队请求"
 
 #. module: openeducat_erp
 #: view:op.all.student:openeducat_erp.op_all_student_form
 #: field:op.all.student,student_ids:0 field:op.transportation,student_ids:0
 msgid "Add Student(s)"
-msgstr ""
+msgstr "添加学员"
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_form
 #: field:op.author,address:0 field:op.publisher,address_id:0
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #. module: openeducat_erp
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "Address Detail"
-msgstr ""
+msgstr "详细地址"
 
 #. module: openeducat_erp
 #: view:op.faculty:openeducat_erp.kanban_view_faculty
 #: view:website:openeducat_erp.report_transportation_detail
 msgid "Address:"
-msgstr ""
+msgstr "地址："
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_form
 msgid "Admision Detail"
-msgstr ""
+msgstr "许可信息"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_admission_view
@@ -256,7 +256,7 @@ msgstr ""
 #: view:op.admission:openeducat_erp.view_op_admission_search
 #: view:op.admission:openeducat_erp.view_op_admission_tree
 msgid "Admission"
-msgstr ""
+msgstr "许可"
 
 #. module: openeducat_erp
 #: view:admission.analysis:openeducat_erp.admission_analysis_form
@@ -264,126 +264,126 @@ msgstr ""
 #: model:ir.ui.menu,name:openeducat_erp.menu_admission_analysis
 #: view:website:openeducat_erp.report_admission_analysis
 msgid "Admission Analysis"
-msgstr ""
+msgstr "许可分析"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.admission_analysis_act
 msgid "Admission Analysis Wizard"
-msgstr ""
+msgstr "许可分析向导"
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_search
 #: field:op.admission,admission_date:0
 msgid "Admission Date"
-msgstr ""
+msgstr "许可日期"
 
 #. module: openeducat_erp
 #: view:op.allocat.division:openeducat_erp.view_op_allocat_division_form
 #: view:op.allocat.division:openeducat_erp.view_op_allocat_division_search
 #: view:op.allocat.division:openeducat_erp.view_op_allocat_division_tree
 msgid "Allocat Division"
-msgstr ""
+msgstr "分配分区"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_allocat_division_view
 msgid "Allocate Division"
-msgstr ""
+msgstr "分配分区"
 
 #. module: openeducat_erp
 #: view:op.hostel.room:openeducat_erp.view_op_hostel_room_search
 #: field:op.hostel.room,allocated_date:0
 msgid "Allocated Date"
-msgstr ""
+msgstr "已分配日期"
 
 #. module: openeducat_erp
 #: view:op.hostel.room:openeducat_erp.view_op_hostel_room_form
 msgid "Allocated Students"
-msgstr ""
+msgstr "已分配学员"
 
 #. module: openeducat_erp
 #: field:op.hostel.room,student_ids:0
 msgid "Allocated Students "
-msgstr ""
+msgstr "已分配学员"
 
 #. module: openeducat_erp
 #: view:op.assignment:openeducat_erp.view_op_assignment_form
 #: field:op.assignment,allocation_ids:0
 msgid "Allocated To"
-msgstr ""
+msgstr "分配给"
 
 #. module: openeducat_erp
 #: view:op.assignment:openeducat_erp.view_op_assignment_form
 msgid "Allocation"
-msgstr ""
+msgstr "分配"
 
 #. module: openeducat_erp
 #: view:op.assignment:openeducat_erp.view_op_assignment_form
 msgid "Allocation Infomation"
-msgstr ""
+msgstr "分配信息"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_allocat_division_sub
 msgid "Allocation Of Division"
-msgstr ""
+msgstr "分区分配"
 
 #. module: openeducat_erp
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "Alumni Detail"
-msgstr ""
+msgstr "校友信息"
 
 #. module: openeducat_erp
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "Alumni Details"
-msgstr ""
+msgstr "校友信息"
 
 #. module: openeducat_erp
 #: field:op.student,alumni_boolean:0
 msgid "Alumni Student"
-msgstr ""
+msgstr "校友学员"
 
 #. module: openeducat_erp
 #: view:op.scholarship.type:openeducat_erp.view_op_scholarship_type_search
 #: field:op.scholarship.type,amount:0
 msgid "Amount"
-msgstr ""
+msgstr "数量"
 
 #. module: openeducat_erp
 #: field:op.health,regular_checkup:0
 msgid "Any Regular Checkup Required?"
-msgstr ""
+msgstr "是否需要正式检查？"
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_search
 #: field:op.admission,application_date:0
 msgid "Application Date"
-msgstr ""
+msgstr "申请日期"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_admission_analysis
 msgid "Application No."
-msgstr ""
+msgstr "申请编号"
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_search
 #: field:op.admission,application_number:0
 msgid "Application Number"
-msgstr ""
+msgstr "申请编号"
 
 #. module: openeducat_erp
 #: view:res.company:openeducat_erp.view_company_form_openeducat_erp
 #: field:res.company,approval_authority:0
 msgid "Approval Authority"
-msgstr ""
+msgstr "批准授权"
 
 #. module: openeducat_erp
 #: field:op.asset,asset_id:0 field:op.classroom,asset_line:0
 msgid "Asset"
-msgstr ""
+msgstr "资产"
 
 #. module: openeducat_erp
 #: view:op.classroom:openeducat_erp.view_op_classroom_form
 msgid "Asset Management"
-msgstr ""
+msgstr "资产管理"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_op_student_assignment
@@ -399,27 +399,27 @@ msgstr ""
 #: view:op.student:openeducat_erp.view_op_student_form
 #: field:op.student,allocation_ids:0
 msgid "Assignment"
-msgstr ""
+msgstr "分派"
 
 #. module: openeducat_erp
 #: view:op.assignment.sub.line:openeducat_erp.view_op_assignment_sub_line_form
 msgid "Assignment Accepted"
-msgstr ""
+msgstr "已接受分派"
 
 #. module: openeducat_erp
 #: view:board.board:openeducat_erp.board_faculty_form
 msgid "Assignment Approved"
-msgstr ""
+msgstr "已批准分派"
 
 #. module: openeducat_erp
 #: view:op.assignment:openeducat_erp.view_op_assignment_form
 msgid "Assignment Name"
-msgstr ""
+msgstr "分派名称"
 
 #. module: openeducat_erp
 #: view:op.assignment.sub.line:openeducat_erp.view_op_assignment_sub_line_form
 msgid "Assignment Rejected"
-msgstr ""
+msgstr "已驳回分派"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_assignment_sub_history_view
@@ -427,7 +427,7 @@ msgstr ""
 #: view:op.assignment.sub.history:openeducat_erp.view_op_assignment_sub_history_search
 #: view:op.assignment.sub.history:openeducat_erp.view_op_assignment_sub_history_tree
 msgid "Assignment Sub History"
-msgstr ""
+msgstr "分派历史"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_assignment_sub_line_view
@@ -435,34 +435,34 @@ msgstr ""
 #: view:op.assignment.sub.line:openeducat_erp.view_op_assignment_sub_line_search
 #: view:op.assignment.sub.line:openeducat_erp.view_op_assignment_sub_line_tree
 msgid "Assignment Sub Line"
-msgstr ""
+msgstr "分派线"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_assignment_sub_line_sub
 msgid "Assignment Submission"
-msgstr ""
+msgstr "提交分派"
 
 #. module: openeducat_erp
 #: view:board.board:openeducat_erp.board_student_form
 msgid "Assignment To Submit"
-msgstr ""
+msgstr "要提交的分派"
 
 #. module: openeducat_erp
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "Assignments"
-msgstr ""
+msgstr "分派"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.op_all_student_act
 msgid "Attandance Sheet Import"
-msgstr ""
+msgstr "导入出席列表"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_attendance_main
 #: view:op.attendance.line:openeducat_erp.view_op_attendance_line_search
 #: field:op.attendance.line,attendance_id:0
 msgid "Attendance"
-msgstr ""
+msgstr "出席"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_attendance_line_view
@@ -472,7 +472,7 @@ msgstr ""
 #: view:op.attendance.sheet:openeducat_erp.view_op_attendance_sheet_form
 #: field:op.attendance.sheet,attendance_line:0
 msgid "Attendance Line"
-msgstr ""
+msgstr "出席线"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_attendance_register_view
@@ -480,13 +480,13 @@ msgstr ""
 #: view:op.attendance.register:openeducat_erp.view_op_attendance_register_search
 #: view:op.attendance.register:openeducat_erp.view_op_attendance_register_tree
 msgid "Attendance Register"
-msgstr ""
+msgstr "出席注册"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_attendance_register_sub
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_attendance_register_sub_faculty
 msgid "Attendance Registers"
-msgstr ""
+msgstr "出席注册"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_attendance_sheet_view
@@ -494,23 +494,23 @@ msgstr ""
 #: view:op.attendance.sheet:openeducat_erp.view_op_attendance_sheet_search
 #: view:op.attendance.sheet:openeducat_erp.view_op_attendance_sheet_tree
 msgid "Attendance Sheet"
-msgstr ""
+msgstr "出席列表"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_attendance_sheet_sub
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_attendance_sheet_sub_faculty
 msgid "Attendance Sheets"
-msgstr ""
+msgstr "出席列表"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_attendance_line_sub
 msgid "Attendance lines"
-msgstr ""
+msgstr "出席线"
 
 #. module: openeducat_erp
 #: field:op.exam,attendees_line:0
 msgid "Attendees"
-msgstr ""
+msgstr "出席者"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_author_view
@@ -520,19 +520,19 @@ msgstr ""
 #: view:op.author:openeducat_erp.view_op_author_tree field:op.book,author_ids:0
 #: field:op.book.purchase,author_ids:0
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_author_sub
 #: view:op.book:openeducat_erp.view_op_book_form
 msgid "Authors"
-msgstr ""
+msgstr "作者"
 
 #. module: openeducat_erp
 #: selection:issue.book,state:0 selection:op.book,state:0
 #: selection:op.book.movement,state:0
 msgid "Available"
-msgstr ""
+msgstr "有效"
 
 #. module: openeducat_erp
 #: selection:op.faculty,blood_group:0 selection:op.health,blood_group:0
@@ -550,17 +550,17 @@ msgstr ""
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_school_back_office_root
 #: model:res.groups,name:openeducat_erp.group_op_back_office
 msgid "Back Office"
-msgstr ""
+msgstr "后台管理"
 
 #. module: openeducat_erp
 #: model:res.groups,name:openeducat_erp.group_op_back_office_admin
 msgid "Back Office Admin"
-msgstr ""
+msgstr "后台管理员"
 
 #. module: openeducat_erp
 #: field:op.faculty,bank_acc_num:0 field:op.student,bank_acc_num:0
 msgid "Bank Acc Number"
-msgstr ""
+msgstr "银行账户号码"
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_form
@@ -572,7 +572,7 @@ msgstr ""
 #: view:op.placement.offer:openeducat_erp.view_op_placement_offer_form
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "Basic Information"
-msgstr ""
+msgstr "基本信息"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_batch_view
@@ -590,33 +590,33 @@ msgstr ""
 #: view:op.student:openeducat_erp.view_op_student_search
 #: field:op.student,batch_id:0
 msgid "Batch"
-msgstr ""
+msgstr "批次"
 
 #. module: openeducat_erp
 #: view:op.batch:openeducat_erp.view_op_batch_form
 msgid "Batch Details"
-msgstr ""
+msgstr "批次信息"
 
 #. module: openeducat_erp
 #: view:op.student:openeducat_erp.kanban_view_student
 msgid "Batch:"
-msgstr ""
+msgstr "批次："
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_batch_sub
 msgid "Batches"
-msgstr ""
+msgstr "批次"
 
 #. module: openeducat_erp
 #: field:op.admission,birth_date:0 field:op.faculty,birth_date:0
 #: field:op.student,birth_date:0
 msgid "Birth Date"
-msgstr ""
+msgstr "生日"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_student_idcard
 msgid "BirthDate :"
-msgstr ""
+msgstr "生日："
 
 #. module: openeducat_erp
 #: view:op.faculty:openeducat_erp.view_op_faculty_search
@@ -624,18 +624,18 @@ msgstr ""
 #: view:op.student:openeducat_erp.view_op_student_search
 #: field:op.student,blood_group:0
 msgid "Blood Group"
-msgstr ""
+msgstr "血型"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_student_idcard
 msgid "Blood Group :"
-msgstr ""
+msgstr "血型："
 
 #. module: openeducat_erp
 #: model:ir.actions.report.xml,name:openeducat_erp.report_bonafide_certificate_1
 #: view:website:openeducat_erp.report_bonafide_certificate
 msgid "Bonafide Certificate"
-msgstr ""
+msgstr "诚意证明"
 
 #. module: openeducat_erp
 #: field:book.request.queue,book_id:0
@@ -652,30 +652,30 @@ msgstr ""
 #: view:op.book.queue:openeducat_erp.view_op_book_queue_form
 #: field:op.book.queue,book_id:0 field:return.book,book_id:0
 msgid "Book"
-msgstr ""
+msgstr "图书"
 
 #. module: openeducat_erp
 #: model:ir.actions.report.xml,name:openeducat_erp.report_book_barcode_1
 msgid "Book Barcode"
-msgstr ""
+msgstr "图书条码"
 
 #. module: openeducat_erp
 #: code:addons/openeducat_erp/wizard/issue_book.py:89
 #: code:addons/openeducat_erp/wizard/return_book.py:52
 #, python-format
 msgid "Book Can not be issued because book state is : %s"
-msgstr ""
+msgstr "此图书无法外借，因为其状态为：%s"
 
 #. module: openeducat_erp
 #: view:op.book:openeducat_erp.view_op_book_form
 #: view:website:openeducat_erp.report_book_barcode
 msgid "Book Detail"
-msgstr ""
+msgstr "图书信息"
 
 #. module: openeducat_erp
 #: view:issue.book:openeducat_erp.issue_book_form
 msgid "Book Issue"
-msgstr ""
+msgstr "图书外借"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_book_movement_view
@@ -683,22 +683,22 @@ msgstr ""
 #: view:op.book.movement:openeducat_erp.view_op_book_movement_search
 #: view:op.book.movement:openeducat_erp.view_op_book_movement_tree
 msgid "Book Movement"
-msgstr ""
+msgstr "图书移动"
 
 #. module: openeducat_erp
 #: view:op.book.movement:openeducat_erp.view_op_book_movement_form
 msgid "Book Movement Detail"
-msgstr ""
+msgstr "图书移动详情"
 
 #. module: openeducat_erp
 #: view:op.book:openeducat_erp.view_op_book_form
 msgid "Book Name"
-msgstr ""
+msgstr "图书名称"
 
 #. module: openeducat_erp
 #: field:op.book,queue_ids:0
 msgid "Book Queue"
-msgstr ""
+msgstr "图书队列"
 
 #. module: openeducat_erp
 #: view:book.request.queue:openeducat_erp.book_request_queue_form
@@ -714,24 +714,24 @@ msgstr ""
 #: view:op.book.queue:openeducat_erp.view_op_book_queue_search
 #: view:op.book.queue:openeducat_erp.view_op_book_queue_tree
 msgid "Book Queue Request"
-msgstr ""
+msgstr "图书排队请求"
 
 #. module: openeducat_erp
 #: view:op.book.queue:openeducat_erp.view_op_book_queue_form
 msgid "Book Queue Request Details"
-msgstr ""
+msgstr "图书排队请求详情"
 
 #. module: openeducat_erp
 #: view:op.book:openeducat_erp.view_op_book_form
 msgid "Book Queue Requests"
-msgstr ""
+msgstr "图书排队请求"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_book_request_library_sub
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_book_request_main_faculty
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_book_request_student_sub
 msgid "Book Request"
-msgstr ""
+msgstr "借书请求"
 
 #. module: openeducat_erp
 #: code:addons/openeducat_erp/op_book_movement/op_book_movement.py:106
@@ -739,48 +739,48 @@ msgstr ""
 #: view:reserve.book:openeducat_erp.reserve_book_form
 #, python-format
 msgid "Book Reservation"
-msgstr ""
+msgstr "图书预借"
 
 #. module: openeducat_erp
 #: view:op.book.movement:openeducat_erp.view_op_book_movement_form
 msgid "Book Reservation Detail"
-msgstr ""
+msgstr "图书预借详情"
 
 #. module: openeducat_erp
 #: view:return.book:openeducat_erp.return_book_form
 msgid "Book Return"
-msgstr ""
+msgstr "归还图书"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_book_movement_sub
 msgid "Book movements"
-msgstr ""
+msgstr "图书移动"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_book_sub
 #: view:op.author:openeducat_erp.view_op_author_form field:op.author,book_ids:0
 msgid "Books"
-msgstr ""
+msgstr "图书"
 
 #. module: openeducat_erp
 #: selection:op.subject,type:0
 msgid "Both"
-msgstr ""
+msgstr "都"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_transportation_detail
 msgid "Bus Stop Detail"
-msgstr ""
+msgstr "校车停靠信息"
 
 #. module: openeducat_erp
 #: selection:generate.roll.number,type:0
 msgid "By Name"
-msgstr ""
+msgstr "按名称"
 
 #. module: openeducat_erp
 #: selection:generate.roll.number,type:0
 msgid "By Surname"
-msgstr ""
+msgstr "按姓氏"
 
 #. module: openeducat_erp
 #: selection:op.course,evaluation_type:0 selection:op.exam,evaluation_type:0
@@ -800,12 +800,12 @@ msgstr ""
 #: selection:op.placement.offer,state:0
 #: view:wizard.op.student:openeducat_erp.op_student_user_create_view
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. module: openeducat_erp
 #: selection:op.exam,state:0 selection:op.marksheet.register,status:0
 msgid "Cancelled"
-msgstr ""
+msgstr "已取消"
 
 #. module: openeducat_erp
 #: view:op.classroom:openeducat_erp.view_op_classroom_search
@@ -813,7 +813,7 @@ msgstr ""
 #: view:op.vehicle:openeducat_erp.view_op_vehicle_search
 #: field:op.vehicle,capacity:0
 msgid "Capacity"
-msgstr ""
+msgstr "容量"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_category_view
@@ -829,83 +829,83 @@ msgstr ""
 #: field:op.student,category:0
 #: view:website:openeducat_erp.report_admission_analysis
 msgid "Category"
-msgstr ""
+msgstr "分类"
 
 #. module: openeducat_erp
 #: view:op.faculty:openeducat_erp.kanban_view_faculty
 #: view:op.student:openeducat_erp.kanban_view_student
 msgid "Category:"
-msgstr ""
+msgstr "分类："
 
 #. module: openeducat_erp
 #: view:op.assignment.sub.line:openeducat_erp.view_op_assignment_sub_line_form
 msgid "Change And ReSubmit"
-msgstr ""
+msgstr "修改并重新提交"
 
 #. module: openeducat_erp
 #: view:op.assignment.sub.line:openeducat_erp.view_op_assignment_sub_line_form
 #: field:op.assignment.sub.line,history_line:0
 msgid "Change History"
-msgstr ""
+msgstr "修改历史"
 
 #. module: openeducat_erp
 #: selection:op.assignment.sub.history,state:0
 #: selection:op.assignment.sub.line,state:0
 msgid "Change Req."
-msgstr ""
+msgstr "修改要求"
 
 #. module: openeducat_erp
 #: view:op.assignment.sub.line:openeducat_erp.view_op_assignment_sub_line_form
 msgid "Change Require"
-msgstr ""
+msgstr "修改要求"
 
 #. module: openeducat_erp
 #: field:op.health.line,name:0
 msgid "Checkup Detail"
-msgstr ""
+msgstr "检查详情"
 
 #. module: openeducat_erp
 #: view:op.health:openeducat_erp.view_op_health_form
 msgid "Checkup Details"
-msgstr ""
+msgstr "检查详情"
 
 #. module: openeducat_erp
 #: view:op.health:openeducat_erp.view_op_health_form
 #: field:op.health,health_line:0
 msgid "Checkup Line"
-msgstr ""
+msgstr "检查线"
 
 #. module: openeducat_erp
 #: field:op.health.line,recommendation:0
 msgid "Checkup Recommendation"
-msgstr ""
+msgstr "推荐检查项目"
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_form
 #: field:op.admission,city:0
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "City"
-msgstr ""
+msgstr "城市"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_classroom_sub
 msgid "Class Room"
-msgstr ""
+msgstr "教室"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_school_config_class_room
 msgid "Class Room Management"
-msgstr ""
+msgstr "教室管理"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_time_table_student_generate
 msgid "Class:"
-msgstr ""
+msgstr "课程："
 
 #. module: openeducat_erp
 #: view:op.classroom:openeducat_erp.view_op_classroom_form
 msgid "ClassRoom"
-msgstr ""
+msgstr "教室"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_classroom_view
@@ -914,7 +914,7 @@ msgstr ""
 #: view:op.classroom:openeducat_erp.view_op_classroom_tree
 #: field:op.exam.room,classroom_id:0
 msgid "Classroom"
-msgstr ""
+msgstr "教室"
 
 #. module: openeducat_erp
 #: view:generate.roll.number:openeducat_erp.view_generate_roll_number_form
@@ -922,7 +922,7 @@ msgstr ""
 #: view:student.attendance:openeducat_erp.student_attendance_form
 #: view:time.table.report:openeducat_erp.view_time_table_report_form
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #. module: openeducat_erp
 #: view:op.achievement.type:openeducat_erp.view_op_achievement_type_search
@@ -942,22 +942,22 @@ msgstr ""
 #: view:op.route:openeducat_erp.view_op_route_search field:op.route,code:0
 #: field:op.standard,code:0 field:op.subject,code:0
 msgid "Code"
-msgstr ""
+msgstr "代码"
 
 #. module: openeducat_erp
 #: field:op.timetable,color:0
 msgid "Color Index"
-msgstr ""
+msgstr "颜色索引"
 
 #. module: openeducat_erp
 #: view:op.faculty:openeducat_erp.view_op_faculty_form
 msgid "Communication"
-msgstr ""
+msgstr "交流"
 
 #. module: openeducat_erp
 #: model:ir.model,name:openeducat_erp.model_res_company
 msgid "Companies"
-msgstr ""
+msgstr "公司"
 
 #. module: openeducat_erp
 #: view:op.placement.offer:openeducat_erp.view_op_placement_offer_form
@@ -976,7 +976,7 @@ msgstr "课管配置"
 #: code:addons/openeducat_erp/op_faculty/op_faculty.py:103
 #, python-format
 msgid "Configuration Error!"
-msgstr ""
+msgstr "配置错误！"
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_form
@@ -984,34 +984,34 @@ msgstr ""
 #: view:op.scholarship:openeducat_erp.view_op_scholarship_form
 #: selection:op.scholarship,state:0
 msgid "Confirm"
-msgstr ""
+msgstr "确认"
 
 #. module: openeducat_erp
 #: view:op.all.student:openeducat_erp.op_all_student_form
 msgid "Confirm Student Selection"
-msgstr ""
+msgstr "确认所选学员"
 
 #. module: openeducat_erp
 #: view:op.faculty:openeducat_erp.view_op_faculty_form
 msgid "Contact Name"
-msgstr ""
+msgstr "联系名称"
 
 #. module: openeducat_erp
 #: field:op.route,cost:0 field:op.transportation,cost:0
 msgid "Cost"
-msgstr ""
+msgstr "支出"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_transportation_detail
 msgid "Cost:"
-msgstr ""
+msgstr "支出："
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_form
 #: field:op.admission,country_id:0
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "Country"
-msgstr ""
+msgstr "国家"
 
 #. module: openeducat_erp
 #: field:admission.analysis,course_id:0 field:generate.time.table,course_id:0
@@ -1042,7 +1042,7 @@ msgstr ""
 #: view:website:openeducat_erp.report_marksheet_report
 #: view:website:openeducat_erp.report_transportation_detail
 msgid "Course"
-msgstr ""
+msgstr "课程"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_admission_analysis
@@ -1050,65 +1050,65 @@ msgstr ""
 #: view:website:openeducat_erp.report_student_idcard
 #: view:website:openeducat_erp.report_ticket
 msgid "Course :"
-msgstr ""
+msgstr "课程："
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_graph
 msgid "Course By Admission"
-msgstr ""
+msgstr "按许可的课程"
 
 #. module: openeducat_erp
 #: view:op.course:openeducat_erp.view_op_course_form
 msgid "Course Detail"
-msgstr ""
+msgstr "课程详情"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_school_config_course
 msgid "Course Management"
-msgstr ""
+msgstr "课程管理"
 
 #. module: openeducat_erp
 #: field:op.exam.room,course_ids:0
 msgid "Course(s)"
-msgstr ""
+msgstr "课程："
 
 #. module: openeducat_erp
 #: view:op.student:openeducat_erp.kanban_view_student
 msgid "Course:"
-msgstr ""
+msgstr "课程："
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_course_sub
 #: view:op.book:openeducat_erp.view_op_book_form
 msgid "Courses"
-msgstr ""
+msgstr "课程"
 
 #. module: openeducat_erp
 #: view:op.faculty:openeducat_erp.view_op_faculty_form
 msgid "Create Employee"
-msgstr ""
+msgstr "新建员工"
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_form
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "Create Invoice"
-msgstr ""
+msgstr "新建发票"
 
 #. module: openeducat_erp
 #: model:ir.model,name:openeducat_erp.model_wizard_op_student
 msgid "Create User the selected Students"
-msgstr ""
+msgstr "为所选学员创建用户"
 
 #. module: openeducat_erp
 #: view:wizard.op.student:openeducat_erp.op_student_user_create_view
 msgid "Create User(s) for Selected Student(s)"
-msgstr ""
+msgstr "为所选学员创建用户"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.action_student_user_create_view
 #: view:wizard.op.student:openeducat_erp.op_student_user_create_view
 msgid "Create Users"
-msgstr ""
+msgstr "新建用户"
 
 #. module: openeducat_erp
 #: field:admission.analysis,create_uid:0 field:book.request.queue,create_uid:0
@@ -1156,7 +1156,7 @@ msgstr ""
 #: field:student.hall.ticket,create_uid:0 field:student.migrate,create_uid:0
 #: field:time.table.report,create_uid:0 field:wizard.op.student,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "创建者为"
 
 #. module: openeducat_erp
 #: field:admission.analysis,create_date:0
@@ -1206,34 +1206,34 @@ msgstr ""
 #: field:student.hall.ticket,create_date:0 field:student.migrate,create_date:0
 #: field:time.table.report,create_date:0 field:wizard.op.student,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "创建时间为"
 
 #. module: openeducat_erp
 #: field:op.student,current_job:0
 msgid "Current Job"
-msgstr ""
+msgstr "当前工作"
 
 #. module: openeducat_erp
 #: field:op.student,current_position:0
 msgid "Current Position"
-msgstr ""
+msgstr "当前职位"
 
 #. module: openeducat_erp
 #: field:op.student,roll_number:0
 msgid "Current Roll Number"
-msgstr ""
+msgstr "当前登记号"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_bonafide_certificate
 msgid "DATE:"
-msgstr ""
+msgstr "日期："
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_dashboard_faculty
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_dashboard_library
 #: model:ir.ui.menu,name:openeducat_erp.menu_student_dashboard
 msgid "Dashboard"
-msgstr ""
+msgstr "控制面板"
 
 #. module: openeducat_erp
 #: view:op.achievement:openeducat_erp.view_op_achievement_search
@@ -1243,22 +1243,22 @@ msgstr ""
 #: field:op.attendance.sheet,attendance_date:0 field:op.health.line,date:0
 #: field:student.migrate,date:0 view:website:openeducat_erp.report_ticket
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 #. module: openeducat_erp
 #: field:gen.time.table.line,day:0
 msgid "Day"
-msgstr ""
+msgstr "天"
 
 #. module: openeducat_erp
 #: field:op.timetable,type:0
 msgid "Days"
-msgstr ""
+msgstr "天"
 
 #. module: openeducat_erp
 #: view:op.timetable:openeducat_erp.view_timetable_kanban
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #. module: openeducat_erp
 #: view:op.achievement:openeducat_erp.view_op_achievement_search
@@ -1269,22 +1269,22 @@ msgstr ""
 #: field:op.assignment.sub.line,description:0
 #: view:op.book:openeducat_erp.view_op_book_form
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #. module: openeducat_erp
 #: field:op.result.template.line,detailed_report:0
 msgid "Detailed Report"
-msgstr ""
+msgstr "详细报告"
 
 #. module: openeducat_erp
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "Details"
-msgstr ""
+msgstr "详情"
 
 #. module: openeducat_erp
 #: view:op.exam:openeducat_erp.view_op_exam_form
 msgid "Discription"
-msgstr ""
+msgstr "描述"
 
 #. module: openeducat_erp
 #: field:generate.time.table,division_id:0
@@ -1307,26 +1307,26 @@ msgstr ""
 #: field:time.table.report,division_id:0
 #: view:website:openeducat_erp.report_marksheet_report
 msgid "Division"
-msgstr ""
+msgstr "分区"
 
 #. module: openeducat_erp
 #: view:op.student:openeducat_erp.kanban_view_student
 #: view:op.timetable:openeducat_erp.view_timetable_kanban
 #: view:website:openeducat_erp.report_time_table_student_generate
 msgid "Division:"
-msgstr ""
+msgstr "分区："
 
 #. module: openeducat_erp
 #: view:generate.roll.number:openeducat_erp.view_generate_roll_number_form
 #: field:generate.roll.number,division_ids:0 field:op.standard,division_ids:0
 msgid "Divisions"
-msgstr ""
+msgstr "分区"
 
 #. module: openeducat_erp
 #: selection:op.admission,state:0 view:op.exam:openeducat_erp.view_op_exam_form
 #: selection:op.exam,state:0
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 #. module: openeducat_erp
 #: selection:op.admission,state:0 selection:op.assignment,state:0
@@ -1335,42 +1335,42 @@ msgstr ""
 #: selection:op.marksheet.register,status:0
 #: selection:op.placement.offer,state:0 selection:op.scholarship,state:0
 msgid "Draft"
-msgstr ""
+msgstr "草稿"
 
 #. module: openeducat_erp
 #: field:op.vehicle,partner_id:0
 msgid "Driver"
-msgstr ""
+msgstr "司机"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_transportation_detail
 msgid "Driver Name"
-msgstr ""
+msgstr "司机名称"
 
 #. module: openeducat_erp
 #: view:board.board:openeducat_erp.board_libray_form
 msgid "Due Book Of Month"
-msgstr ""
+msgstr "当月到期图书"
 
 #. module: openeducat_erp
 #: view:board.board:openeducat_erp.board_libray_form
 msgid "Due Book Of Today"
-msgstr ""
+msgstr "今日到期图书"
 
 #. module: openeducat_erp
 #: field:op.admission,due_date:0
 msgid "Due Date"
-msgstr ""
+msgstr "到期日期"
 
 #. module: openeducat_erp
 #: field:op.library.card.type,duration:0 field:op.period,duration:0
 msgid "Duration"
-msgstr ""
+msgstr "持续时间"
 
 #. module: openeducat_erp
 #: help:op.library.card.type,duration:0
 msgid "Duration in terms of Number of Lead Days"
-msgstr ""
+msgstr "根据提前天数的持续时间"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_library_idcard
@@ -1381,28 +1381,28 @@ msgstr ""
 #. module: openeducat_erp
 #: view:op.timetable:openeducat_erp.view_timetable_kanban
 msgid "Edit..."
-msgstr ""
+msgstr "编辑……"
 
 #. module: openeducat_erp
 #: field:op.book,edition:0 field:op.book.purchase,edition:0
 msgid "Edition"
-msgstr ""
+msgstr "版本"
 
 #. module: openeducat_erp
 #: view:op.book:openeducat_erp.view_op_book_form
 msgid "Education Details"
-msgstr ""
+msgstr "教学详情"
 
 #. module: openeducat_erp
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "Educational"
-msgstr ""
+msgstr "教学"
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_form
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "Educational Detail"
-msgstr ""
+msgstr "教学详情"
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_form
@@ -1413,42 +1413,42 @@ msgstr ""
 #. module: openeducat_erp
 #: field:op.faculty,emergency_contact:0 field:op.student,emergency_contact:0
 msgid "Emergency Contact"
-msgstr ""
+msgstr "紧急联系人"
 
 #. module: openeducat_erp
 #: model:ir.model,name:openeducat_erp.model_hr_employee
 #: field:op.faculty,emp_id:0
 msgid "Employee"
-msgstr ""
+msgstr "员工"
 
 #. module: openeducat_erp
 #: field:op.timetable,end_datetime:0
 msgid "End"
-msgstr ""
+msgstr "结束"
 
 #. module: openeducat_erp
 #: field:admission.analysis,end_date:0 field:generate.time.table,end_date:0
 #: view:op.batch:openeducat_erp.view_op_batch_search field:op.batch,end_date:0
 #: field:time.table.report,end_date:0
 msgid "End Date"
-msgstr ""
+msgstr "结束日期"
 
 #. module: openeducat_erp
 #: field:exam.seat.arrange,end_time:0 field:op.exam,end_time:0
 #: field:op.exam.session,end_time:0 field:op.transportation,end_time:0
 msgid "End Time"
-msgstr ""
+msgstr "结束时间"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_transportation_detail
 msgid "End Time:"
-msgstr ""
+msgstr "结束时间："
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_form
 #: selection:op.admission,state:0
 msgid "Enroll"
-msgstr ""
+msgstr "登记"
 
 #. module: openeducat_erp
 #: code:addons/openeducat_erp/wizard/issue_book.py:89
@@ -1457,7 +1457,7 @@ msgstr ""
 #: code:addons/openeducat_erp/wizard/return_book.py:52
 #, python-format
 msgid "Error!"
-msgstr ""
+msgstr "错误！"
 
 #. module: openeducat_erp
 #: view:op.course:openeducat_erp.view_op_course_search
@@ -1465,7 +1465,7 @@ msgstr ""
 #: view:op.exam:openeducat_erp.view_op_exam_search
 #: field:op.exam,evaluation_type:0
 msgid "Evaluation Type"
-msgstr ""
+msgstr "评估类型"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_exam_view
@@ -1481,7 +1481,7 @@ msgstr ""
 #: view:op.result.line:openeducat_erp.view_op_result_line_search
 #: field:op.result.line,exam_id:0
 msgid "Exam"
-msgstr ""
+msgstr "测验"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_exam_attendees_view
@@ -1491,34 +1491,34 @@ msgstr ""
 #: view:op.exam.attendees:openeducat_erp.view_op_exam_attendees_search
 #: view:op.exam.attendees:openeducat_erp.view_op_exam_attendees_tree
 msgid "Exam Attendees"
-msgstr ""
+msgstr "测验参加者"
 
 #. module: openeducat_erp
 #: view:op.exam.attendees:openeducat_erp.view_op_exam_attendees_form
 msgid "Exam Attendess"
-msgstr ""
+msgstr "测验参加者"
 
 #. module: openeducat_erp
 #: view:op.exam:openeducat_erp.view_op_exam_search field:op.exam,exam_code:0
 #: field:op.exam.session,exam_code:0
 #: view:website:openeducat_erp.report_marksheet_report
 msgid "Exam Code"
-msgstr ""
+msgstr "测验代码"
 
 #. module: openeducat_erp
 #: field:op.result.template.line,exam_lines:0
 msgid "Exam Lines"
-msgstr ""
+msgstr "测验线"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_school_config_exam
 msgid "Exam Management"
-msgstr ""
+msgstr "测验管理"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_marksheet_report
 msgid "Exam Name"
-msgstr ""
+msgstr "测验名称"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_exam_res_allocation_view
@@ -1526,12 +1526,12 @@ msgstr ""
 #: view:op.exam.res.allocation:openeducat_erp.view_op_exam_res_allocation_search
 #: view:op.exam.res.allocation:openeducat_erp.view_op_exam_res_allocation_tree
 msgid "Exam Resource Allocation"
-msgstr ""
+msgstr "测验资源分配"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_school_exam_result
 msgid "Exam Result"
-msgstr ""
+msgstr "测验结果"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_exam_room_view
@@ -1540,18 +1540,18 @@ msgstr ""
 #: view:op.exam.room:openeducat_erp.view_op_exam_room_search
 #: view:op.exam.room:openeducat_erp.view_op_exam_room_tree
 msgid "Exam Room"
-msgstr ""
+msgstr "测验教室"
 
 #. module: openeducat_erp
 #: view:exam.seat.arrange:openeducat_erp.exam_seat_arrange_form
 #: model:ir.actions.act_window,name:openeducat_erp.exam_seat_arrange_act
 msgid "Exam Seat Arrange"
-msgstr ""
+msgstr "测验座位分配"
 
 #. module: openeducat_erp
 #: view:exam.seat.arrange:openeducat_erp.exam_seat_arrange_form
 msgid "Exam Seating Arrangement"
-msgstr ""
+msgstr "测验座位分配"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_exam_session_view
@@ -1563,7 +1563,7 @@ msgstr ""
 #: field:op.result.template.line,exam_session_id:0
 #: field:student.hall.ticket,exam_session_id:0
 msgid "Exam Session"
-msgstr ""
+msgstr "测验项目"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_result_exam_line_view
@@ -1575,7 +1575,7 @@ msgstr ""
 #: field:op.result.line,exam_tmpl_id:0
 #: view:op.result.template.line:openeducat_erp.view_op_result_template_line_form
 msgid "Exam Template"
-msgstr ""
+msgstr "测验模板"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_exam_type_view
@@ -1586,40 +1586,40 @@ msgstr ""
 #: view:op.exam.type:openeducat_erp.view_op_exam_type_tree
 #: view:website:openeducat_erp.report_marksheet_report
 msgid "Exam Type"
-msgstr ""
+msgstr "测验类型"
 
 #. module: openeducat_erp
 #: field:op.exam.res.allocation,exam_ids:0
 msgid "Exam(s)"
-msgstr ""
+msgstr "测验"
 
 #. module: openeducat_erp
 #: field:generate.roll.number,example:0
 msgid "Example"
-msgstr ""
+msgstr "例子"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_exam_main
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_exam_main_faculty
 #: field:op.exam.session,exam_ids:0
 msgid "Exams"
-msgstr ""
+msgstr "测验"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_exam_res_allocation_main
 msgid "Exams Resource Allocation"
-msgstr ""
+msgstr "测验资源分配"
 
 #. module: openeducat_erp
 #: view:op.health:openeducat_erp.view_op_health_search
 #: field:op.health,eyeglasses_no:0
 msgid "Eye Glasses"
-msgstr ""
+msgstr "眼镜"
 
 #. module: openeducat_erp
 #: field:op.health,eyeglasses:0
 msgid "Eye Glasses?"
-msgstr ""
+msgstr "眼镜？"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_time_table_teacher_generate
@@ -1630,7 +1630,7 @@ msgstr ""
 #: view:op.classroom:openeducat_erp.view_op_classroom_form
 #: field:op.classroom,facility:0 field:op.hostel.room,facility_line:0
 msgid "Facilities"
-msgstr ""
+msgstr "设施"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_facility_view
@@ -1639,7 +1639,7 @@ msgstr ""
 #: view:op.facility:openeducat_erp.view_op_facility_search
 #: view:op.facility:openeducat_erp.view_op_facility_tree
 msgid "Facility"
-msgstr ""
+msgstr "设施"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_faculty_main
@@ -1647,7 +1647,7 @@ msgstr ""
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_faculty_sub
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_faculty_sub_faculty
 msgid "Faculties"
-msgstr ""
+msgstr "设施"
 
 #. module: openeducat_erp
 #: field:gen.time.table.line,faculty_id:0
@@ -1673,75 +1673,75 @@ msgstr ""
 #: model:res.groups,name:openeducat_erp.group_op_faculty
 #: field:time.table.report,faculty_id:0
 msgid "Faculty"
-msgstr ""
+msgstr "设施"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_op_faculty_assignment
 msgid "Faculty Assignment"
-msgstr ""
+msgstr "设施分配"
 
 #. module: openeducat_erp
 #: view:board.board:openeducat_erp.board_faculty_form
 #: model:ir.actions.act_window,name:openeducat_erp.open_board_faculty
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_dashboard_faculty
 msgid "Faculty Dashboard"
-msgstr ""
+msgstr "设施控制面板"
 
 #. module: openeducat_erp
 #: view:op.health:openeducat_erp.view_op_health_form
 msgid "Faculty Name"
-msgstr ""
+msgstr "设施名称"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_time_table_teacher_generate
 msgid "Faculty Name :"
-msgstr ""
+msgstr "设施名称："
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_time_table_teacher_generate
 msgid "Faculty Time Table"
-msgstr ""
+msgstr "设施时间安排表"
 
 #. module: openeducat_erp
 #: view:op.timetable:openeducat_erp.view_timetable_kanban
 msgid "Faculty:"
-msgstr ""
+msgstr "设施"
 
 #. module: openeducat_erp
 #: selection:op.result.line,status:0
 msgid "Fail"
-msgstr ""
+msgstr "失败"
 
 #. module: openeducat_erp
 #: field:op.admission,family_business:0
 msgid "Family Business"
-msgstr ""
+msgstr "家庭行业"
 
 #. module: openeducat_erp
 #: field:op.admission,family_income:0
 msgid "Family Income"
-msgstr ""
+msgstr "家庭收入"
 
 #. module: openeducat_erp
 #: field:op.admission,fees:0
 msgid "Fees"
-msgstr ""
+msgstr "费用"
 
 #. module: openeducat_erp
 #: selection:op.admission,gender:0 selection:op.faculty,gender:0
 #: selection:op.student,gender:0
 msgid "Female"
-msgstr ""
+msgstr "女性"
 
 #. module: openeducat_erp
 #: view:op.assignment:openeducat_erp.view_op_assignment_form
 msgid "Finish"
-msgstr ""
+msgstr "完成"
 
 #. module: openeducat_erp
 #: selection:op.assignment,state:0
 msgid "Finished"
-msgstr ""
+msgstr "已完成"
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_form
@@ -1749,135 +1749,135 @@ msgstr ""
 #: view:op.faculty:openeducat_erp.view_op_faculty_form
 #: view:op.student:openeducat_erp.view_op_student_form
 msgid "First Name"
-msgstr ""
+msgstr "姓氏"
 
 #. module: openeducat_erp
 #: view:student.migrate:openeducat_erp.student_migrate_form
 msgid "Forward"
-msgstr ""
+msgstr "向前"
 
 #. module: openeducat_erp
 #: selection:gen.time.table.line,day:0
 #: view:generate.time.table:openeducat_erp.view_generate_time_table_form
 #: selection:op.timetable,type:0
 msgid "Friday"
-msgstr ""
+msgstr "周五"
 
 #. module: openeducat_erp
 #: field:op.transportation,from1:0
 #: view:website:openeducat_erp.report_admission_analysis
 msgid "From"
-msgstr ""
+msgstr "开始于"
 
 #. module: openeducat_erp
 #: field:book.request.queue,date_from:0 field:op.book.queue,date_from:0
 #: field:student.attendance,from_date:0
 msgid "From Date"
-msgstr ""
+msgstr "起始日期"
 
 #. module: openeducat_erp
 #: code:addons/openeducat_erp/op_book_queue/op_book_queue.py:46
 #, python-format
 msgid "From Date Should be greater than To Date !"
-msgstr ""
+msgstr "起始日期应该比结束日期大！"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_time_table_student_generate
 #: view:website:openeducat_erp.report_time_table_teacher_generate
 msgid "From Date:"
-msgstr ""
+msgstr "起始日期："
 
 #. module: openeducat_erp
 #: field:student.migrate,from_standard_id:0
 msgid "From Standard"
-msgstr ""
+msgstr "来源标准"
 
 #. module: openeducat_erp
 #: code:addons/openeducat_erp/wizard/student_migrate.py:41
 #: sql_constraint:student.migrate:0
 #, python-format
 msgid "From Student must not be same as To Student !"
-msgstr ""
+msgstr "起始学员不能跟结束学员相同！"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_transportation_detail
 msgid "From:"
-msgstr ""
+msgstr "来自："
 
 #. module: openeducat_erp
 #: selection:op.course,evaluation_type:0 selection:op.exam,evaluation_type:0
 msgid "GPA"
-msgstr ""
+msgstr "平均成绩（GPA）"
 
 #. module: openeducat_erp
 #: view:op.admission:openeducat_erp.view_op_admission_form
 #: field:op.student,gr_no:0
 msgid "GR Number"
-msgstr ""
+msgstr "GR编号"
 
 #. module: openeducat_erp
 #: field:op.admission,gr_no_new:0
 msgid "GR Number new"
-msgstr ""
+msgstr "新GR编号"
 
 #. module: openeducat_erp
 #: field:op.admission,gr_no_old:0
 msgid "GR Number old"
-msgstr ""
+msgstr "旧GR编号"
 
 #. module: openeducat_erp
 #: field:op.admission,gender:0 field:op.faculty,gender:0
 #: field:op.student,gender:0
 msgid "Gender"
-msgstr ""
+msgstr "性别"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_general_main
 msgid "General"
-msgstr ""
+msgstr "概况"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_school_config_general
 msgid "General Management"
-msgstr ""
+msgstr "概况管理"
 
 #. module: openeducat_erp
 #: view:op.allocat.division:openeducat_erp.view_op_allocat_division_form
 msgid "Generate Division"
-msgstr ""
+msgstr "生成分区"
 
 #. module: openeducat_erp
 #: view:exam.seat.arrange:openeducat_erp.exam_seat_arrange_form
 msgid "Generate Exam Seating"
-msgstr ""
+msgstr "生成测验座位"
 
 #. module: openeducat_erp
 #: view:generate.roll.number:openeducat_erp.view_generate_roll_number_form
 #: model:ir.model,name:openeducat_erp.model_generate_roll_number
 msgid "Generate Roll Number"
-msgstr ""
+msgstr "生成登记号码"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_op_gen_roll_no
 msgid "Generate Roll Number  "
-msgstr ""
+msgstr "生成登记号码"
 
 #. module: openeducat_erp
 #: view:generate.roll.number:openeducat_erp.view_generate_roll_number_form
 msgid "Generate Roll Numbers"
-msgstr ""
+msgstr "生成登记号码"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_generate_time_table_view
 #: model:ir.model,name:openeducat_erp.model_generate_time_table
 #: model:ir.ui.menu,name:openeducat_erp.menu_generate_time_table
 msgid "Generate Time Table"
-msgstr ""
+msgstr "生成时间表"
 
 #. module: openeducat_erp
 #: model:ir.model,name:openeducat_erp.model_gen_time_table_line
 msgid "Generate Time Table Lines"
-msgstr ""
+msgstr "生成时间表线"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_time_table_report_view
@@ -1885,39 +1885,39 @@ msgstr ""
 #: model:ir.ui.menu,name:openeducat_erp.menu_generate_time_table_report
 #: view:time.table.report:openeducat_erp.view_time_table_report_form
 msgid "Generate Time Table Report"
-msgstr ""
+msgstr "生成时间表报告"
 
 #. module: openeducat_erp
 #: model:ir.actions.report.xml,name:openeducat_erp.report_student_timetable_generate
 #: model:ir.actions.report.xml,name:openeducat_erp.report_teacher_timetable_generate
 msgid "Generate TimeTable"
-msgstr ""
+msgstr "生成时间表"
 
 #. module: openeducat_erp
 #: view:generate.time.table:openeducat_erp.view_generate_time_table_form
 msgid "Generate time Table"
-msgstr ""
+msgstr "生成时间表"
 
 #. module: openeducat_erp
 #: view:op.marksheet.register:openeducat_erp.view_op_marksheet_register_search
 #: field:op.marksheet.register,generated_by:0
 msgid "Generated By"
-msgstr ""
+msgstr "生成者为"
 
 #. module: openeducat_erp
 #: field:op.marksheet.register,generated_date:0
 msgid "Generated Date"
-msgstr ""
+msgstr "生成日期为"
 
 #. module: openeducat_erp
 #: field:generate.roll.number,type:0
 msgid "Generation Sequence"
-msgstr ""
+msgstr "生成序列"
 
 #. module: openeducat_erp
 #: view:op.result.template:openeducat_erp.view_op_result_template_form
 msgid "Genrate Result"
-msgstr ""
+msgstr "生成结果"
 
 #. module: openeducat_erp
 #: field:op.subject,grade_waitage:0
@@ -1970,7 +1970,7 @@ msgstr ""
 #: view:op.transportation:openeducat_erp.view_op_transportation_search
 #: view:op.vehicle:openeducat_erp.view_op_vehicle_search
 msgid "Group By..."
-msgstr ""
+msgstr "分组依据……"
 
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_ticket
@@ -2712,18 +2712,18 @@ msgstr ""
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_school_root
 msgid "OpenEduCat"
-msgstr ""
+msgstr "教育资源管理"
 
 #. module: openeducat_erp
 #: model:ir.ui.menu,name:openeducat_erp.menu_op_school_root_config
 msgid "OpenEduCat Configuration"
-msgstr ""
+msgstr "教育资源管理设置"
 
 #. module: openeducat_erp
 #: selection:op.admission,gender:0 selection:op.student,gender:0
 #: selection:op.subject,type:0
 msgid "Other"
-msgstr ""
+msgstr "其它"
 
 #. module: openeducat_erp
 #: view:op.health:openeducat_erp.view_op_health_form
@@ -4276,31 +4276,31 @@ msgstr ""
 #. module: openeducat_erp
 #: view:website:openeducat_erp.report_bonafide_certificate
 msgid "is / was a bonafide student of this school / college studying in"
-msgstr ""
+msgstr "是在该机构学习的真实学员"
 
 #. module: openeducat_erp
 #: view:wizard.op.student:openeducat_erp.op_student_user_create_view
 msgid "or"
-msgstr ""
+msgstr "或"
 
 #. module: openeducat_erp
 #: view:op.timetable:openeducat_erp.view_op_timetable_search
 msgid "period"
-msgstr ""
+msgstr "学时"
 
 #. module: openeducat_erp
 #: view:op.exam:openeducat_erp.view_op_exam_search
 msgid "state"
-msgstr ""
+msgstr "状态"
 
 #. module: openeducat_erp
 #: model:ir.actions.act_window,name:openeducat_erp.act_open_op_stop_view
 #: view:op.stop:openeducat_erp.view_op_stop_form
 #: view:op.stop:openeducat_erp.view_op_stop_tree
 msgid "stop"
-msgstr ""
+msgstr "停止"
 
 #. module: openeducat_erp
 #: field:op.health,weight:0
 msgid "weight(K.G.)"
-msgstr ""
+msgstr "重量（公斤）"
